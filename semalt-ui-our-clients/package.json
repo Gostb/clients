@@ -1,0 +1,10 @@
+{
+  "name": "semalt-ui-our-clients",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "starenchenkossh",
+  "dependencies": {
+    "@semalt/template": "git+https://git.semalt.com/semalt/semalt-snuxt.git",
+    "vue-social-sharing": "^2.3.3"
+  }
+}
